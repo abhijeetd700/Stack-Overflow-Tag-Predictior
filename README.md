@@ -1,2 +1,7 @@
 # Stack-Overflow-Tag-Predictior
-Predicting the tags based on the content in the question and description posted on StackOverflow Why tags : Based on tags ,stackoverflow sends the questions to concerned persons who have answered similar questions in the past
+
+**All the relevant CODE & conclusions is available in ipynb notebook**<br />
+**Problem Statement:-**<br>
+Suggest the tags based on the content that was there in the question posted on Stackoverflow.\all is well
+
+
